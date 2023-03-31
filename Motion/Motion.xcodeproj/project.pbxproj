@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		177F65F3292931CC00DB96FB /* HapticManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 177F65F2292931CC00DB96FB /* HapticManager.swift */; };
 		17BF151C28FDF324004F25B3 /* MotionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BF151B28FDF324004F25B3 /* MotionManager.swift */; };
 		17CCEE5C28EF64EE00D81CC8 /* MotionApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17CCEE5B28EF64EE00D81CC8 /* MotionApp.swift */; };
 		17CCEE5E28EF64EE00D81CC8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17CCEE5D28EF64EE00D81CC8 /* ContentView.swift */; };
@@ -18,7 +17,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		177F65F2292931CC00DB96FB /* HapticManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticManager.swift; sourceTree = "<group>"; };
 		17BF151B28FDF324004F25B3 /* MotionManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionManager.swift; sourceTree = "<group>"; };
 		17CCEE5828EF64EE00D81CC8 /* Motion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Motion.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		17CCEE5B28EF64EE00D81CC8 /* MotionApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionApp.swift; sourceTree = "<group>"; };
@@ -61,7 +59,6 @@
 			children = (
 				17CCEE5B28EF64EE00D81CC8 /* MotionApp.swift */,
 				17CCEE5D28EF64EE00D81CC8 /* ContentView.swift */,
-				177F65F2292931CC00DB96FB /* HapticManager.swift */,
 				17BF151B28FDF324004F25B3 /* MotionManager.swift */,
 				17CCEE6928EF65D100D81CC8 /* particle.swift */,
 				17CCEE6B28EF663800D81CC8 /* particleSystem.swift */,
@@ -153,7 +150,6 @@
 				17BF151C28FDF324004F25B3 /* MotionManager.swift in Sources */,
 				17CCEE6A28EF65D100D81CC8 /* particle.swift in Sources */,
 				17CCEE5E28EF64EE00D81CC8 /* ContentView.swift in Sources */,
-				177F65F3292931CC00DB96FB /* HapticManager.swift in Sources */,
 				17CCEE5C28EF64EE00D81CC8 /* MotionApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
